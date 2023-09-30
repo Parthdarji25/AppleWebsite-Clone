@@ -1,2 +1,0 @@
-# AppleWebsite-Clone
-Project
